@@ -60,3 +60,5 @@ _[Ss]cripts
 *.psess
 *.orig
 *.sln.ide
+/obj
+/bin
